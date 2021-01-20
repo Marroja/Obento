@@ -42,7 +42,7 @@ All the compilation files are included in "Bento.7z", please, do not hesistate t
 
 **Icon:**
 
-icon file extracted as Google's "Bento box" from here:
+icon file extracted as Google's "Bento box" from here under the same license (Apache 2.0):
 
 https://iconarchive.com/show/noto-emoji-food-drink-icons-by-google/32399-bento-box-icon.html
 
