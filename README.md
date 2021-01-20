@@ -26,6 +26,7 @@ Están todos los archivos necesarios para recompilar en la carpeta "Bento.7z", p
 All the compilation files are included in "Bento.7z", please, do not hesistate to if necesary. 
 
 [JP]
+
 -アップリ内のテキストを変えるため「lingua.txt」というファイルでフォーマットを守るとどんな翻訳できるようになっています。
 
 -だーくモード、フォント、デフォルトファイル設定は「conf.txt」ファイルで保存します。
