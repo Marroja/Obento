@@ -5,6 +5,8 @@
 
 -->暗記のために出来ているアップリです。言語の暗記向けて作られているけど、他のなんでも追加出来るアップリです。
 
+##Manual/使い方
+
 **[ES]**
 
 -El archivo "lingua.txt" contiene todas las entradas de texto excepto las notificaciones. Manteniendo el formato de ese archivo de texto se puede modificar todo el texto de la aplicación.
