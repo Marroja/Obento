@@ -5,7 +5,7 @@
 
 -->暗記のために出来ているアップリです。言語の暗記向けて作られているけど、他のなんでも追加出来るアップリです。
 
-## [ES] https://github.com/Marroja/Obento/blob/main/Obento0_6_beta.zip
+// ## [ES] https://github.com/Marroja/Obento/blob/main/Obento0_6_beta.zip
 
 ## Manual - 使い方
 
