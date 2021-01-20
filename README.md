@@ -5,7 +5,7 @@
 
 -->暗記のために出来ているアップリです。言語の暗記向けて作られているけど、他のなんでも追加出来るアップリです。
 
-# Manual - 使い方
+## Manual - 使い方
 
 **[ES]**
 
@@ -38,6 +38,7 @@ All the compilation files are included in "Bento.7z", please, do not hesistate t
 コンパイルするためのファイル全部「Bento.7z」で含んでおりますので、ぜひともしてください。
 
 
+### Recursos externos - Used assets - 資源
 
 **Icon:**
 
