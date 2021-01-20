@@ -5,7 +5,9 @@
 
 -->暗記のために制作したアプリです。言語の暗記のために作りましたが、その他にも様々な利用が可能なアプリです。
 
-[Link to Google](https://www.google.com)
+[Descarga español](https://github.com/Marroja/Obento/blob/main/%5BES%5DObento0_6_beta.zip)
+
+[English download](https://github.com/Marroja/Obento/blob/main/%5BEN%5DObento0_6_beta.7z)
 
 ## Manual - 使い方
 
