@@ -38,7 +38,7 @@ All the compilation files are included in **"Bento.7z"**, please, do not hesista
 コンパイルするためのファイルは全て「Bento.7z」で含んでおりますので、是非とも活用ください。
 
 
-### Recursos externos - Used assets - 資源
+### Recursos externos - Used assets - アセット
 
 **Icon:**
 
