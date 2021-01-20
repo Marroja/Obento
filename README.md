@@ -36,6 +36,10 @@ All the compilation files are included in "Bento.7z", please, do not hesistate t
 コンパイルするためのファイル全部「Bento.7z」で含んでおりますので、ぜひともしてください。
 
 
+
+Icon:
+
 icon file extracted as Google's "Bento box" from here:
+
 https://iconarchive.com/show/noto-emoji-food-drink-icons-by-google/32399-bento-box-icon.html
 
