@@ -37,7 +37,7 @@ All the compilation files are included in "Bento.7z", please, do not hesistate t
 
 
 
-Icon:
+**Icon:**
 
 icon file extracted as Google's "Bento box" from here:
 
