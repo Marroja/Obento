@@ -7,7 +7,7 @@
 
 [Descarga español](https://github.com/Marroja/Obento/raw/main/%5BES%5DObento0_6_beta.zip)
 
-[English download](https://github.com/Marroja/Obento/blob/main/%5BEN%5DObento0_6_beta.7z)
+[English download](https://github.com/Marroja/Obento/raw/main/%5BEN%5DObento0_6_beta.7z)
 
 ## Manual - 使い方
 
