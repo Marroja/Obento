@@ -34,3 +34,8 @@ All the compilation files are included in "Bento.7z", please, do not hesistate t
 -アップルに語彙などを外から追加するため「/voc」フォルダーに入れてください。語彙を消すためフォルダーマネジャーから消す必要があります、これは間違えて消してしまう可能性を低くするためです。
 
 コンパイルするためのファイル全部「Bento.7z」で含んでおりますので、ぜひともしてください。
+
+
+icon file extracted as Google's "Bento box" from here:
+https://iconarchive.com/show/noto-emoji-food-drink-icons-by-google/32399-bento-box-icon.html
+
