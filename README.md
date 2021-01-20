@@ -5,7 +5,7 @@
 
 -->暗記のために出来ているアップリです。言語の暗記向けて作られているけど、他のなんでも追加出来るアップリです。
 
-**[ES]
+**[ES]**
 
 -El archivo "lingua.txt" contiene todas las entradas de texto excepto las notificaciones. Manteniendo el formato de ese archivo de texto se puede modificar todo el texto de la aplicación.
 
@@ -15,7 +15,7 @@
 
 Están todos los archivos necesarios para recompilar en la carpeta "Bento.7z", por favor, está incluída con ese propósito. 
 
-**[EN]
+**[EN]**
 
 -The "lingua.txt" file contains all the text available in the main forms, one can change all of them mantaing the format in the file. 
 
@@ -25,7 +25,7 @@ Están todos los archivos necesarios para recompilar en la carpeta "Bento.7z", p
 
 All the compilation files are included in "Bento.7z", please, do not hesistate to if necesary. 
 
-**[JP]
+**[JP]**
 
 -アップリ内のテキストを変えるため「lingua.txt」というファイルでフォーマットを守るとどんな翻訳できるようになっています。
 
