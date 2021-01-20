@@ -29,7 +29,7 @@ All the compilation files are included in **"Bento.7z"**, please, do not hesista
 
 **[JP]**
 
--アップリ内のテキストを変えるため「lingua.txt」というファイルでフォーマットを守るとどんな翻訳できるようになっています。
+-アップリ内のテキストを変えるため「lingua.txt」というファイルでフォーマットを守るとどんな翻訳でもできます。
 
 -だーくモード、フォント、デフォルトファイル設定は「conf.txt」ファイルで保存します。
 
